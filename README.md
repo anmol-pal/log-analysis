@@ -73,3 +73,5 @@ cat countryLargeFineGran.csv | less
 24,45.144.0.179,Germany,DE,Berlin,Europe/Berlin,52.5196,13.4069,Land Berlin
 ```
 
+## Data Analysis [here](src/data_analytics.ipynb)
+

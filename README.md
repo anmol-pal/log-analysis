@@ -1,4 +1,3 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76530469/216343242-bf5f54c3-f03c-4316-89bc-31f4e64e5fdc.gif)
 # log-analysis
 ## Data Wrangling
 

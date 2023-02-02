@@ -74,5 +74,7 @@ cat countryLargeFineGran.csv | less
 ```
 
 ## Data Analysis [here](src/data_analytics.ipynb)
+[data_analytics - Jupyter Notebook (1).webm](https://user-images.githubusercontent.com/76530469/216336075-dd7d9174-c76d-4162-bc55-4c1f1414c32c.webm)
+
 
 [data_analytics - Jupyter Notebook.webm](https://user-images.githubusercontent.com/76530469/216335612-8051c8a9-4f71-4b0e-91b9-1f774ffe8f6a.webm)
